@@ -1,4 +1,7 @@
-# vue-musicQlayer
+## vue-musicQlayer
+
+# 目前音乐API接口暂时有问题，无法播放音乐（会尽快修复）
+
 vue.js实现音乐播放器
 
 实现功能有：
